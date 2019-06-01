@@ -1,0 +1,7 @@
+print("Hello. What's your name?")
+name = input()
+print(f"hello {name}, how old are you?")
+age = input()
+print(f"How are you doing today, {name}")
+mood = input()
+print("Have a great day")
